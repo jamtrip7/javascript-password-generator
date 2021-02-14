@@ -1,8 +1,8 @@
 # JavaScript: Password Generator
 
-![Project Image](https://github.com/jamtrip7/javascript-password-generator/blob/main/javascript-homework-screenshot.png)
+![Project Image](assets\Screenshots\javascript-homework-screenshot.png)
 
-> Password Generator.
+> [Password Generator](C:\Users\J.Rippee\code\homework-assignments\javascript-password-generator\javascript-password-generator.html)
 
 ---
 
