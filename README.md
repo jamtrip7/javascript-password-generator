@@ -2,7 +2,7 @@
 
 ![Project Image](https://github.com/jamtrip7/javascript-password-generator/blob/main/javascript-homework-screenshot.png)
 
-> [Password Generator](C:\Users\J.Rippee\code\homework-assignments\javascript-password-generator\javascript-password-generator.html)
+> [Password Generator](https://github.com/jamtrip7/javascript-password-generator/blob/main/javascript-password-generator.html)
 
 ---
 
