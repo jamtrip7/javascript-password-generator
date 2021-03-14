@@ -2,7 +2,7 @@
 
 ![Project Image](https://github.com/jamtrip7/javascript-password-generator/blob/main/javascript-homework-screenshot.png)
 
-> [Password Generator](https://jamtrip7/github.io/javascript-password/index)
+> [Password Generator](https://jamtrip7.github.io/javascript-password-generator/index)
 
 ---
 
